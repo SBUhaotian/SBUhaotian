@@ -6,9 +6,9 @@ author_profile: true
 
 [//]: # (<span lang="zh-cn">)
 
-[//]: # (            <font size="5" face="Times New Roman"><b>Wen jun </b>)
+[//]: # (            <font size="5" face="Times New Roman"><b>Hao tian </b>)
 
-[//]: # (            </font><font size="4" face="华文行楷">文俊</font><b>)
+[//]: # (            </font><font size="4" face="华文行楷">昊天</font><b>)
 
 [//]: # (<font size="4" face="Times New Roman">&nbsp;&nbsp;)
 
@@ -19,11 +19,9 @@ author_profile: true
 [//]: # (**Biography**)
 ### <span style="color:royalBlue;font-weight:bold">Biography</span>
 
-I am a final-year Ph.D. student at Rutgers University, under the supervision of Prof. [Desheng Zhang](https://www.cs.rutgers.edu/~dz220/). I am also working with Prof. [Yunhuai Liu](http://www.yunhuai.net/Yunhuai.htm) in research. I obtained my master degree from Central South University, under the supervision of Prof. [Jiawei Huang](https://faculty.csu.edu.cn/jiaweihuang/zh_CN/index/27174/list/index.htm).
+I am a research scientist and lead a research group at JD Logistics. I received my Ph.D. from Rutgers Univeristy, under the supervision of Prof. [Jie Gao](https://sites.rutgers.edu/jie-gao/about/). I obtained my B.S. degree from Shanghai Jiao Tong University.
 
-
-My research interests are broadly in the areas of **Cyber-Physical Systems**, and **Data-Driven Applications** in **Smart Logistics**.<br>You can contact me at wenjun.lyu AT rutgers DOT edu.
-My publications can also be found at [Google Scholar](https://scholar.google.com/citations?user=_LMyrNQAAAAJ&hl=en). 
+My research interests are broadly in the areas of **Algorithm Design**, **Spatial-Temporal Data Science** and **Networking Applications** such as wireless sensor networks, social netowrks, traffic networks and logistics networks.<br> You can contact me at wanghaotian18 AT jd DOT com. My publications can also be found at [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=L88_fxoAAAAJ)
 
 [//]: # (**Research Experiences** )
 ### <span style="color:green;font-weight:bold">Research Experiences</span>
