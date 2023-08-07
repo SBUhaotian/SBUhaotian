@@ -12,12 +12,18 @@ author_profile: true
 
 ### 2023 
 
+<span style="color:black;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
+Zhiqing Hong, **Haotian Wang**, Wenjun Lyu, Hai Wang, Yunhuai Liu, Guang Wang, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[IJCAI'23]</span> *A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics* <br>
-**Wenjun Lyu**, Haotian Wang , Yiwei Song, Yunhuai Liu, Tian He, Desheng Zhang<br>
+<span style="color:black;font-weight:bold">[CIKM'23]</span> *AutoBuild: Automatic Community Building Labeling for Last-mile Delivery* <br>
+Zhiqing Hong, Dongjiang Cao, **Haotian Wang**, Guang Wang, Tian He, Desheng Zhang<br>
 
-<span style="color:black;font-weight:bold">[ICDE'23]</span> *REDE: Exploring Relay Transportation for Efficient Last-mile Delivery* <br>
-**Wenjun Lyu**, Haotian Wang, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[CIKM'23]</span> *Logistics Audience Expansion via Temporal Knowledge Graph* <br>
+Hua Yan, Yingqiang Ge, **Haotian Wang**, Desheng Zhang, Yu Yang<br>
+
+<span style="color:black;font-weight:bold">[CIKM'23]</span> *DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions* <br>
+Jinhui Yi, Huan Yan, **Haotian Wang**, Jian Yuan and Yong Li<br>
 
 
 ### 2022
