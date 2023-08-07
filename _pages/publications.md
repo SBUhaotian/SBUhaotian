@@ -34,24 +34,23 @@ Kaiwen Xia, Li Lin, Shuai Wang, **Haotian Wang**, Desheng Zhang, Tian He<br>
 <span style="color:black;font-weight:bold">[IJCAI'23]</span> *A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics* <br>
 Wenjun Lyu, **Haotian Wang**, Yiwei Song, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
+<span style="color:black;font-weight:bold">[ICDE'23]</span> *REDE: Exploring Relay Transportation for Efficient Last-mile Delivery* <br>
+Wenjun Lyu, **Haotian Wang**, Zhiqing Hong, Guang Wang, Yu Yang, Yunhuai Liu, Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[ICDE'23]</span> *COME: Learning to Coordinate Crowdsourcing and Regular Couriers for Offline Delivery During Online Mega Sale Days* <br>
+Guanzhou Zhu, Dong Zhao, Yizong Wang, **Haotian Wang**, Desheng Zhang, Huadong Ma<br>
+
 ### 2022
 
-<span style="color:black;font-weight:bold">[CIKM'22]</span> *Towards Fair Workload Assessment via Homogeneous Order Grouping in Last-mile Delivery* <br>
-**Wenjun Lyu**, Kexin Zhang, Baoshen Guo, Zhiqing Hong, Guang Yang, Guang Wang, Yu Yang, Yunhuai Liu and Desheng Zhang<br>
-
-<span style="color:black;font-weight:bold">[Ubicomp'22]</span> *WePos: Weak-supervised Indoor Positioning with Unlabeled WiFi for On-demand Delivery* <br>
-Baoshen Guo, Weijian Zuo, Shuai Wang, **Wenjun Lyu**, Zhiqing Hong, Yi Ding, Tian He, Desheng Zhang<br>
-
-<span style="color:black;font-weight:bold">[ICDCS'22]</span> *BikeCAP: Deep Spatial-temporal Capsule Network for Multi-step Bike Demand Prediction* <br>
-Shuxin Zhong, **Wenjun Lyu**, Yu Yang, Desheng Zhang<br>
-
-
 <span style="color:black;font-weight:bold">[SIGSPATIAL'22]</span> *CoMiner: nationwide behavior-driven unsupervised spatial coordinate mining from uncertain delivery events* <br>
-Zhiqing Hong, Guang Wang, **Wenjun Lyu**, Baoshen Guo, Yi Ding, Haotian Wang, Shuai Wang, Yunhuai Liu, Desheng Zhang<br>
-
+Zhiqing Hong, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, **Haotian Wang**, Shuai Wang, Yunhuai Liu, Desheng Zhang<br>
 
 <span style="color:black;font-weight:bold">[SIGSPATIAL'22]</span> *FastAddr: real-time abnormal address detection via contrastive augmentation for location-based services* <br>
-Zhiqing Hong, Heng Yang, Haotian Wang, **Wenjun Lyu**, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, Desheng Zhang<br>
+Zhiqing Hong, Heng Yang, **Haotian Wang**, Wenjun Lyu, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, Desheng Zhang<br>
+
+<span style="color:black;font-weight:bold">[SoCG'22]</span> *On Cyclic Solutions to the Min-Max Latency Multi-Robot Patrolling Problem* <br>
+Peyman Afshani*, Mark De Berg*, Kevin Buchin*, Jie Gao*, Maarten Loffler*, Amir Nayyeri*, Benjamin Raichel*, Rik Sarkar*, **Haotian Wang*** and Hao-Tsung Yang<br>
+
 
 
 ### 2021 
