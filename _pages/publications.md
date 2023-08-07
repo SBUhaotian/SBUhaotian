@@ -25,6 +25,14 @@ Hua Yan, Yingqiang Ge, **Haotian Wang**, Desheng Zhang, Yu Yang<br>
 <span style="color:black;font-weight:bold">[CIKM'23]</span> *DeepSTA: A Spatial-Temporal Attention Network for Logistics Delivery Timely Rate Prediction in Anomaly Conditions* <br>
 Jinhui Yi, Huan Yan, **Haotian Wang**, Jian Yuan and Yong Li<br>
 
+<span style="color:black;font-weight:bold">[KDD'23]</span> *Towards Equitable Assignment: Data-Driven Delivery Zone Partition at Last-mile Logistics* <br>
+Baoshen Guo, Shuai Wang, **Haotian Wang**, Yunhuai Liu, Fanshuo Kong, Desheng Zhang, Tian He<br>
+
+<span style="color:black;font-weight:bold">[KDD'23]</span> *A Predict-Then-Optimize Couriers Allocation Framework for Emergency Last-mile Logistics* <br>
+Kaiwen Xia, Li Lin, Shuai Wang, **Haotian Wang**, Desheng Zhang, Tian He<br>
+
+<span style="color:black;font-weight:bold">[IJCAI'23]</span> *A Prediction-and-Scheduling Framework for Efficient Order Transfer in Logistics* <br>
+Wenjun Lyu, **Haotian Wang**, Yiwei Song, Yunhuai Liu, Tian He, Desheng Zhang<br>
 
 ### 2022
 
