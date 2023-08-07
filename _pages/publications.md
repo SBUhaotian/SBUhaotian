@@ -49,9 +49,13 @@ Zhiqing Hong, Guang Wang, Wenjun Lyu, Baoshen Guo, Yi Ding, **Haotian Wang**, Sh
 Zhiqing Hong, Heng Yang, **Haotian Wang**, Wenjun Lyu, Yu Yang, Guang Wang, Yunhuai Liu, Yang Wang, Desheng Zhang<br>
 
 <span style="color:black;font-weight:bold">[SoCG'22]</span> *On Cyclic Solutions to the Min-Max Latency Multi-Robot Patrolling Problem* <br>
-Peyman Afshani*, Mark De Berg*, Kevin Buchin*, Jie Gao*, Maarten Loffler*, Amir Nayyeri*, Benjamin Raichel*, Rik Sarkar*, **Haotian Wang*** and Hao-Tsung Yang<br>
+Peyman Afshani*, Mark De Berg*, Kevin Buchin*, Jie Gao*, Maarten Loffler*, Amir Nayyeri*, Benjamin Raichel*, Rik Sarkar*, **Haotian Wang***, Hao-Tsung Yang<br>
 
+<span style="color:black;font-weight:bold">[IPSN'22]</span> *Clustering of Trajectories using Non-Parametric Conformal DBSCAN Algorithm* <br>
+**Haotian Wang**, Jie Gao, Min-ge Xie<br>
 
+<span style="color:black;font-weight:bold">[SODA'22]</span> *Co-evolution of Opinion and Social Tie Dynamics Towards Structural Balance* <br>
+**Haotian Wang**, Feng Luo, Jie Gao<br>
 
 ### 2021 
 
