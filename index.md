@@ -22,6 +22,7 @@ author_profile: true
 I am a research scientist and lead a research group at JD Logistics. I received my Ph.D. from Rutgers Univeristy, under the supervision of Prof. [Jie Gao](https://sites.rutgers.edu/jie-gao/about/). I obtained my B.S. degree from Shanghai Jiao Tong University.
 
 My research interests are broadly in the areas of **Algorithm Design**, **Spatial-Temporal Data Science** and **Networking Applications** such as wireless sensor networks, social netowrks, traffic networks and logistics networks.
+
 <br> You can contact me at wanghaotian18 AT jd DOT com. My publications can also be found at [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=L88_fxoAAAAJ)
 
 
@@ -29,8 +30,7 @@ My research interests are broadly in the areas of **Algorithm Design**, **Spatia
 
 [//]: # (**Recent News**)
 
-* Aug. 2023: Four paper about {POI Updating, Building Auto Labeling, Timely Rate Prediction, and Knowledge Graph} in JD Logistics application are accepted by [ACM CIKM 2023](https://uobevents.eventsair.com/cikm2023//), congrats to my interns and coauthors.
-
+* Aug. 2023: Four paper about {**POI Updating, Building Auto Labeling, Timely Rate Prediction, and Knowledge Graph**} in JD Logistics application are accepted by [ACM CIKM 2023](https://uobevents.eventsair.com/cikm2023//), congrats to my interns and coauthors.
 
 
 
