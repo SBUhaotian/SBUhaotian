@@ -59,48 +59,37 @@ Peyman Afshani*, Mark De Berg*, Kevin Buchin*, Jie Gao*, Maarten Loffler*, Amir 
 
 ### 2021 
 
+<span style="color:black;font-weight:bold">[Nature SR'21]</span> *Targeted Interventions Reduce the Spread of COVID-19: Simulation Study on Real Mobility Data* <br>
+**Haotian Wang**, Abhirup Ghosh, Jiaxin Ding, Rik Sarkar, Jie Gao<br>
 
-<span style="color:black;font-weight:bold">[Ubicomp'21]</span> *Mover: Generalizability Verification of Human Mobility Models via Heterogeneous Use
-Cases* <br>
-**Wenjun Lyu**, Guang Wang, Yu Yang, Desheng Zhang<br>
+### 2020
 
+<span style="color:black;font-weight:bold">[WAFR'20]</span> *Approximation Algorithms for Multi-Robot Patrol-Scheduling with Min-Max Latency* <br>
+Peyman Afshani*, Mark De Berg*, Kevin Buchin*, Jie Gao*, Maarten Loffler*, Amir Nayyeri*, Benjamin Raichel*, Rik Sarkar*, **Haotian Wang***, Hao-Tsung Yang<br>
 
-<span style="color:black;font-weight:bold">[ICDCS'21]</span> *Mitigating Port Starvation for Shallow-buffered Switches in Datacenter Networks* <br>
-**Wenjun Lyu**, Jiawei Huang, Jingling Liu, Zhaoyi Li, Shaojun Zou, Weihe Li, Jianxin Wang, Desheng Zhang<br>
+<span style="color:black;font-weight:bold">[IPSN'20]</span> *Distributed Human Trajectory Sensing and Partial Similarity Queries* <br>
+**Haotian Wang**, Jie Gao<br>
 
-
+<span style="color:black;font-weight:bold">[GPC'20]</span> *Quality-Aware and Penalty-Sensitive Opportunistic Crowdsensing in Mobile Relay Networks* <br>
+Ailun Song, Jingguang Zhou, Xiaofeng Gao, **Haotian Wang**, Fan Wu, Guihai Chen<br>
 
 ### 2019
 
-<span style="color:black;font-weight:bold">[ICPP'19]</span> *TLB: Traffic-aware Load Balancing with Adaptive Granularity in Data Center Networks* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br><span style="background-color:gray;color:White"> Best Paper Candidate </span>
-
+<span style="color:black;font-weight:bold">[Sigspatial'19]</span> *Efficient Beacon Placement Algorithm for Time-of-Flight Indoor Localization* <br>
+**Haotian Wang**, Niranjini Rajagopal, Anthony Rowe, Bruno Sinopoli, Jie Gao<br>
 
 ### 2018
 
-<span style="color:black;font-weight:bold">[ICNP'18]</span> *QDAPS: Queueing Delay Aware Packet Spraying for Load Balancing in Data Center* <br>
-Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br>
+<span style="color:black;font-weight:bold">[TMC'18]</span> *Algorithm Design and Analysis for Wireless Relay Network Deployment Problem* <br>
+Xiaofeng Gao, Junwei Lu, **Haotian Wang**, Fan Wu, Guihai Chen<br>
 
-<span style="color:black;font-weight:bold">[INFOCOM'18]</span> *CAPS: Coding-based Adaptive Packet Spraying to Reduce Flow Completion Time in Data
-Center* <br>
-Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
+### 2017
 
+<span style="color:black;font-weight:bold">[COCOA'18]</span> *Trajectory-Based Multi-Hop Relay Deployment Optimization in Wireless Networks* <br>
+Shilei Tian, **Haotian Wang**, Xiaofeng Gao, Fan Wu, Guihai Chen<br>
 
+<span style="color:black;font-weight:bold">[ICDCS'18]</span> *Approximation Design for Cooperative Relay Deployment in Wireless Networks* <br>
+**Haotian Wang**, Shilei Tian, Xiaofeng Gao, Lidong Wu, Guihai Chen<br>
 
-
-**Selected Journal Publications**
-
----
-
-<span style="color:black;font-weight:bold">[TOSN'23]</span> *OPTI: Order Preparation Time Inference for On-demand Delivery* <br>Zhigang Dai, **Wenjun Lyu**, Yi Ding, Yiwei Song, Yunhuai Liu<br>
-
-<span style="color:black;font-weight:bold">[TCC'22]</span> *APS: Adaptive Packet Spraying to Isolate Mix-Flows in Data Center Network* <br>Jingling Liu, Jiawei Huang, **Wenjun Lyu**, Jianxin Wang<br>
-
-<span style="color:black;font-weight:bold">[TON'21]</span> *Mitigating Packet Reordering for Random Packet Spraying in Data Center Networks* <br>Jiawei Huang, **Wenjun Lyu**, Weihe Li, Jianxin Wang, Tian He<br>
-
-<span style="color:black;font-weight:bold">[TON'21]</span> *Adjusting Switching Granularity of Load Balancing for Heterogeneous Datacenter Traffic* <br>Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Weihe Li, Zhaoyi Li, Wenchao Jiang, Jianxin Wang, Tian He<br>
-
-<span style="color:black;font-weight:bold">[TON'19]</span> *CAPS: Coding-Based Adaptive Packet Spraying to Reduce Flow Completion Time in Data
-Center* <br>Jinbin Hu, Jiawei Huang, **Wenjun Lyu**, Yutao Zhou, Jianxin Wang, Tian He<br>
 
 
