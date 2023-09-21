@@ -30,6 +30,8 @@ My research interests are broadly in the areas of **Algorithm Design**, **Spatia
 
 [//]: # (**Recent News**)
 
+* Sept. 2023: One paper about the **transportation vehicle matching and scheduling** in JD Logistics application are accepted by [VLDB 2024](https://www.vldb.org/2024/), congrats to Sijing.
+
 * Aug. 2023: Four paper about {**POI Updating, Building Auto Labeling, Timely Rate Prediction, and Knowledge Graph**} in JD Logistics application are accepted by [ACM CIKM 2023](https://uobevents.eventsair.com/cikm2023//), congrats to my interns and coauthors.
 
 
