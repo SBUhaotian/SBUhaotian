@@ -10,10 +10,15 @@ author_profile: true
 
 ---
 
-### 2023 
+### 2024
+
+<span style="color:black;font-weight:bold">[AAAI'24]</span> *Composite Active Learning: Towards Multi-Domain Active Learning with Theoretical Guarantees* <br>
+Guang-Yuan Hao, Hengguan Huang, **Haotian Wang**, Jie Gao, Hao Wang<br>
 
 <span style="color:black;font-weight:bold">[VLDB'24]</span> *VeLP: Vehicle Loading Plan Learning from Human Behavior in Nationwide Logistics System* <br>
 Sijing Duan, Feng Lyu, Xin Zhu, Yi Ding, **Haotian Wang**, Desheng Zhang, Xue Liu, Yaoxue Zhang, Ju Ren<br>
+
+### 2023
 
 <span style="color:black;font-weight:bold">[CIKM'23]</span> *Urban-scale POI Updating with Crowd Intelligence* <br>
 Zhiqing Hong, **Haotian Wang**, Wenjun Lyu, Hai Wang, Yunhuai Liu, Guang Wang, Desheng Zhang<br>
