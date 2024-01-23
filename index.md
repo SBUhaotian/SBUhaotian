@@ -30,11 +30,13 @@ My research interests are broadly in the areas of **Algorithm Design**, **Spatia
 
 [//]: # (**Recent News**)
 
-* Dec. 2023: One paper about **Multi-Domain Active Learning** is accepted by [AAAI 2024](https://aaai.org/aaai-conference/), thanks to my co-authors.
+* Jan. 2024: One paper about **Route Planning Under Uncertain Pickup Requests** is accepted by [WWW 2024]([https://aaai.org/aaai-conference/](https://www2024.thewebconf.org/)) (CCF-A), thanks to my co-authors.
 
-* Sept. 2023: One paper about the **transportation vehicle matching and scheduling** in JD Logistics application are accepted by [VLDB 2024](https://www.vldb.org/2024/), congrats to Sijing.
+* Dec. 2023: One paper about **Multi-Domain Active Learning** is accepted by [AAAI 2024](https://aaai.org/aaai-conference/) (CCF-A), thanks to my co-authors.
 
-* Aug. 2023: Four paper about {**POI Updating, Building Auto Labeling, Timely Rate Prediction, and Knowledge Graph**} in JD Logistics application are accepted by [ACM CIKM 2023](https://uobevents.eventsair.com/cikm2023//), congrats to my interns and co-authors.
+* Sept. 2023: One paper about the **transportation vehicle matching and scheduling** in JD Logistics application are accepted by [VLDB 2024](https://www.vldb.org/2024/) (CCF-A), congrats to Sijing.
+
+* Aug. 2023: Four paper about {**POI Updating, Building Auto Labeling, Timely Rate Prediction, and Knowledge Graph**} in JD Logistics application are accepted by [ACM CIKM 2023](https://uobevents.eventsair.com/cikm2023//) (CCF-B), congrats to my interns and co-authors.
 
 
 
