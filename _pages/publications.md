@@ -12,10 +12,10 @@ author_profile: true
 
 ### 2024
 
-<span style="color:black;font-weight:bold">[AAAI'24]</span> *Composite Active Learning: Towards Multi-Domain Active Learning with Theoretical Guarantees* <br>
+<span style="color:black;font-weight:bold">[WWW'24]</span> *Composite Active Learning: Towards Multi-Domain Active Learning with Theoretical Guarantees* <br>
 Hua Yan, Heng Tan, **Haotian Wang**, Desheng Zhang, Yu Yang<br>
 
-<span style="color:black;font-weight:bold">[WWW'24]</span> *Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery* <br>
+<span style="color:black;font-weight:bold">[AAAI'24]</span> *Robust Route Planning under Uncertain Pickup Requests for Last-mile Delivery* <br>
 Guang-Yuan Hao, Hengguan Huang, **Haotian Wang**, Jie Gao, Hao Wang<br>
 
 <span style="color:black;font-weight:bold">[VLDB'24]</span> *VeLP: Vehicle Loading Plan Learning from Human Behavior in Nationwide Logistics System* <br>
